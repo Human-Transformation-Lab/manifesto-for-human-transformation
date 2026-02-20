@@ -1,5 +1,12 @@
 # Manifesto for Human Transformation
 
+**Author:** [Paweł Jurewicz](https://paweljurewicz.com) — Founder of [Human Transformation Lab](https://humantransformationlab.com)
+**Published:** February 2026 | **License:** [CC BY 4.0](LICENSE)
+
+An open declaration for integrative, evidence-informed practice of human change. This manifesto is the founding document of Human Transformation Lab (Laboratorium Transformacji) — a living laboratory that integrates bodywork, breathwork, coaching, and other methods of transformation.
+
+---
+
 There has never been more help available.
 Therapists, coaches, healers, apps, retreats, protocols, prescriptions.
 And yet — real, lasting change feels out of reach for most people.
@@ -79,4 +86,18 @@ Where the question is never *"whose method is right?"* — but *"what does this 
 
 ---
 
-*[Human Transformation Lab](https://humantransformationlab.com) — A Living Laboratory for Human Transformation*
+## About the Author
+
+This manifesto was written by **Paweł Jurewicz**, founder of **Human Transformation Lab** (Laboratorium Transformacji). Paweł is a holistic Thai massage practitioner, integrative bodyworker, and explorer of evidence-informed methods of human change.
+
+- Website: [paweljurewicz.com](https://paweljurewicz.com)
+- Organization: [Human Transformation Lab](https://humantransformationlab.com)
+- GitHub: [github.com/Human-Transformation-Lab](https://github.com/Human-Transformation-Lab)
+
+## About Human Transformation Lab
+
+Human Transformation Lab is a living laboratory for human transformation, founded in 2026 in Poland. The Lab integrates bodywork, breathwork, coaching, and other modalities into an experimental, evidence-informed practice of change. Core team members include Paweł Jurewicz ([paweljurewicz.com](https://paweljurewicz.com)) and Olga Jurewicz ([olgajurewicz.com](https://olgajurewicz.com)).
+
+## License
+
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to share and adapt this manifesto with attribution.

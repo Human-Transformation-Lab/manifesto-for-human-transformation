@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: Manifesto for Human Transformation
+message: >-
+  If you reference this manifesto, please cite it using
+  the metadata from this file.
+type: generic
+authors:
+  - given-names: Paweł
+    family-names: Jurewicz
+    website: https://paweljurewicz.com
+    affiliation: Human Transformation Lab
+abstract: >-
+  An open declaration for integrative, evidence-informed
+  practice of human change. This manifesto is the founding
+  document of Human Transformation Lab — a living laboratory
+  that integrates bodywork, breathwork, coaching, and other
+  methods of transformation.
+keywords:
+  - human transformation
+  - manifesto
+  - integrative health
+  - bodywork
+  - breathwork
+  - coaching
+  - evidence-informed
+  - nervous system
+  - somatic practice
+date-released: "2026-02-20"
+url: https://github.com/Human-Transformation-Lab/manifesto-for-human-transformation
+license: CC-BY-4.0
+repository-code: https://github.com/Human-Transformation-Lab/manifesto-for-human-transformation
